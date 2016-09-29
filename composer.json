@@ -1,0 +1,14 @@
+{
+    "name": "trungpv93/file-info-php",
+    "description": "Detect file info from local or remote file (URL)",
+    "keywords": ["php", "file info", "image info", "file data", "file ext", "file extension", "file mime", "mime type"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "trungpv",
+            "email": "phamvantrung.11193@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
